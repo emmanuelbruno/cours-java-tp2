@@ -1,7 +1,7 @@
 /**
  * 
  */
-package fr.univtln.bruno.tp.tp2.plante;
+package fr.univtln.bruno.coursjava.tp.tp2.plante;
 
 /**
  * @author bruno

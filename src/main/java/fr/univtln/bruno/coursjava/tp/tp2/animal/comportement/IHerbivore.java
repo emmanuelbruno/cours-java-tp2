@@ -1,6 +1,6 @@
-package fr.univtln.bruno.tp.tp2.animal.comportement;
+package fr.univtln.bruno.coursjava.tp.tp2.animal.comportement;
 
-import fr.univtln.bruno.tp.tp2.plante.Plante;
+import fr.univtln.bruno.coursjava.tp.tp2.plante.Plante;
 
 /**
  * The Interface IHerbivore.

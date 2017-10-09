@@ -1,8 +1,8 @@
-package fr.univtln.bruno.tp.tp2.animal.mammifere;
+package fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere;
 
-import fr.univtln.bruno.tp.tp2.animal.Animal;
-import fr.univtln.bruno.tp.tp2.animal.comportement.ComportementCarnivore;
-import fr.univtln.bruno.tp.tp2.animal.comportement.ICarnivore;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.comportement.ICarnivore;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.Animal;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.comportement.ComportementCarnivore;
 
 public class Chien extends Mammifere implements ICarnivore {
 

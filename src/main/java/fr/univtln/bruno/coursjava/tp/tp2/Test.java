@@ -1,17 +1,17 @@
 /**
  *
  */
-package fr.univtln.bruno.tp.tp2;
+package fr.univtln.bruno.coursjava.tp.tp2;
 
-import fr.univtln.bruno.tp.tp2.animal.Animal;
-import fr.univtln.bruno.tp.tp2.animal.Animal.Sexe;
-import fr.univtln.bruno.tp.tp2.animal.comportement.ICarnivore;
-import fr.univtln.bruno.tp.tp2.animal.mammifere.Chien;
-import fr.univtln.bruno.tp.tp2.animal.mammifere.Homme;
-import fr.univtln.bruno.tp.tp2.animal.mammifere.Lapin;
-import fr.univtln.bruno.tp.tp2.animal.mammifere.Mammifere;
-import fr.univtln.bruno.tp.tp2.animal.oiseau.Aigle;
-import fr.univtln.bruno.tp.tp2.animal.oiseau.Oiseau;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.comportement.ICarnivore;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere.Chien;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.Animal;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.Animal.Sexe;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere.Homme;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere.Lapin;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere.Mammifere;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.oiseau.Aigle;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.oiseau.Oiseau;
 
 /**
  * The Class Test. Cette classe illustre l'utilisation de l'héritage et du

@@ -1,6 +1,6 @@
-package fr.univtln.bruno.tp.tp2.animal.mammifere;
+package fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere;
 
-import fr.univtln.bruno.tp.tp2.animal.Animal;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.Animal;
 
 /**
  * The Class Mammifere.

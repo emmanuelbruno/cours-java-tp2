@@ -1,8 +1,8 @@
-package fr.univtln.bruno.tp.tp2.animal.mammifere;
+package fr.univtln.bruno.coursjava.tp.tp2.animal.mammifere;
 
-import fr.univtln.bruno.tp.tp2.animal.comportement.ComportementHerbivore;
-import fr.univtln.bruno.tp.tp2.animal.comportement.IHerbivore;
-import fr.univtln.bruno.tp.tp2.plante.Plante;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.comportement.ComportementHerbivore;
+import fr.univtln.bruno.coursjava.tp.tp2.plante.Plante;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.comportement.IHerbivore;
 
 /**
  * The Class Lapin.

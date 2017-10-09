@@ -1,6 +1,6 @@
-package fr.univtln.bruno.tp.tp2.animal.oiseau;
+package fr.univtln.bruno.coursjava.tp.tp2.animal.oiseau;
 
-import fr.univtln.bruno.tp.tp2.animal.Animal;
+import fr.univtln.bruno.coursjava.tp.tp2.animal.Animal;
 
 public abstract class Oiseau extends Animal {
 
