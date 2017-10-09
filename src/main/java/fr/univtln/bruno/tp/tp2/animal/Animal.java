@@ -40,7 +40,7 @@ public abstract class Animal {
      *
      * @param sexe the sexe
      */
-    public Animal(String nom, Sexe sexe) throws Exception {
+    public Animal(String nom, Sexe sexe) {
         super();
         this.nom = nom;
         this.sexe = sexe;
