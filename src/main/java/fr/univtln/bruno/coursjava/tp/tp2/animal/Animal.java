@@ -2,13 +2,13 @@
  *
  */
 package fr.univtln.bruno.coursjava.tp.tp2.animal;
-
+import java.io.Serializable;
 /**
  * The Class Animal.
  *
  * @author bruno
  */
-public abstract class Animal {
+public abstract class Animal implements Serializable{
 
     /**
      * The Constant NB_MAX_ANIMAUX.
